@@ -1,1 +1,1 @@
-# water_counter_app
+# water_counter_widget
